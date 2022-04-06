@@ -1,0 +1,12 @@
+.receipt{
+    border: 1px solid black;
+    width: 16%;
+    font-weight: 300;
+    color: grey;
+    text-align:center;
+    background-color:beige;
+    
+}
+h3{
+    text-decoration:underline;
+}
